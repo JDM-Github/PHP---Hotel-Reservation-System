@@ -1,0 +1,82 @@
+body {
+	overflow: hidden;
+}
+
+.container {
+	height: calc(100vh - 60px);
+}
+
+.container .bg-image {
+	left: 2%;
+	width: 96%;
+	height: 86vh;
+}
+
+.container .login,
+.container .register {
+	position: absolute;
+	top: 7%;
+	right: 4%;
+	width: 40%;
+	height: calc(86vh * .9);
+	border-radius: 20px;
+	background: linear-gradient(to right, #020a12cc, #021a33cc, #020a12cc);
+}
+
+
+.container .logreg-text {
+	position: relative;
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-bottom: 5%;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.container .register .logreg-text { margin-top: 10%; }
+
+.container .error {
+	text-indent: 10%;
+	margin: 0;
+	height: 0px;
+	color: red;
+}
+
+.container .logreg-button {
+	margin-top: 50px;
+	margin-left: 20%;
+	width: 60%;
+	padding: 5px;
+	text-align: center;
+	font-size: 1.5rem;
+	font-weight: bold;
+	border-radius: 20px;
+	background-color: #2D3856;
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
+.container .logreg-button:hover {
+	background-color: #4D5876;
+	transform: scale(102%);
+}
+
+.container .toreg {
+	margin-top: 10px;
+	text-align: center;
+	color: #ccccccaa;
+}
+
+.container .toreg>span {
+	color: #5588ff;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.input-form {
+	margin-left: 10%;
+	width: calc(80% - 20px);
+	margin-top: 20px;
+	background-color: #2D385677;
+	padding: 10px;
+	border-radius: 10px;
+}

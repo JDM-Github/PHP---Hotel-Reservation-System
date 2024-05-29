@@ -1,0 +1,85 @@
+
+.hotel-form {
+	position: relative;
+	margin-left: 20px;
+	width: 40%;
+	min-height: 400px;
+	height: auto;
+	margin-top: 50px;
+	background: linear-gradient(to right, #020a12cc, #041c53cc, #020a12cc);
+	border-radius: 20px;
+	border: 2px solid #ffffff22;
+	padding: 20px;
+	padding-bottom: 30px;
+}
+.hotel-form > h1 {
+	text-align: center;
+	margin-top: -5px;
+}
+
+.hotel-form button {
+	margin-top: 20px;
+	margin-left: 20%;
+	width: 60%;
+	padding: 5px;
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+	border-radius: 20px;
+	background-color: #2D3856;
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
+.hotel-form button:hover {
+	background-color: #4D5876;
+	transform: scale(102%);
+}
+
+.hotel-form .input-form {
+	margin-left: 10%;
+	width: calc(80% - 20px);
+	margin-top: 20px;
+	background-color: #2D385677;
+	padding: 10px;
+	border-radius: 10px;
+	resize: none;
+}
+.hotel-form textarea.input-form {
+	height: 100px;
+}
+
+.hotel-form .select-form {
+	margin-left: 10%;
+	width: 80%;
+	margin-top: 20px;
+	background-color: #2D385677;
+	padding: 10px;
+	border-radius: 10px;
+	resize: none;
+}
+.hotel-form .select-form option {
+	background-color: #2D3856;
+}
+
+.hotel-form .hotel-list {
+	position: relative;
+	width: calc(100% - 20px);
+	padding: 10px;
+	height: auto;
+}
+.hotel-form .hotel-list .hotel-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+	background-color: #2D385677;
+	text-indent: 10px;
+	border-radius: 20px;
+	font-weight: bold;
+}
+.hotel-form .hotel-list .delete-btn {
+	position: relative;
+	margin: 0;
+	width: 50px;
+}
