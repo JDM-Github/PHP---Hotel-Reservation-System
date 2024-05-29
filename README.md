@@ -1,14 +1,21 @@
 # Hotel Reservation System Overview
 
 The Hotel Reservation System is designed to facilitate real-time hotel booking and management for users and administrators.
+- GITHUB LINK: [Hotel Reservation Github](https://github.com/JDM-Github/PHP---Hotel-Reservation-System)
+- PROJECT LINK: [Hotel Reservation Project](https://drive.google.com/drive/folders/1IpkrJUT_pcw1ZlR7W5y5pfiTmone-5fd?usp=drive_link)
+- VIEW: [Hotel Reservation View](https://drive.google.com/drive/folders/1M9rYJjZYzzC24L3eNbk9vwpV3R3ZUdW7?usp=drive_link)
+- VIDEO: [Hotel Reservation Presentation](https://drive.google.com/file/d/1tycTj-Q4Ilq6mQGd9x8dm2lCzbc5Hby4/view?usp=sharing)
 
 ## User Features
+![User Dashboard Image](view/userDashboard.png)
+![User Booked Image](view/userBooked.png)
 - **View Hotels**: Users can browse a list of available hotels.
 - **Book Rooms**: Users can book rooms in their chosen hotels.
 - **Manage Bookings**: Users can view all their bookings, cancel them, and mark their stay as finished.
 - **Feedback**: Users can provide feedback for their stay after it has been completed.
 
 ## Admin Features
+![Admin Dashboard Image](view/adminDashboard.png)
 - **Dashboard**: Admins have a dedicated dashboard for managing the system.
 - **Hotel and Room Management**: Admins can add, delete, and update hotels and rooms.
 - **User Management**: Admins can view all users and have the ability to ban users.
