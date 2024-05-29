@@ -52,8 +52,3 @@ INSERT INTO Rooms (room_number, type, price, status, hotel_id) VALUES
 ('201', 'Standard', 300.00, 'Available', 2),
 ('202', 'Standard', 80.00, 'Available', 2),
 ('301', 'Standard', 250.00, 'Available', 3);
-
--- INSERT INTO Reservations (user_id, room_id, check_in, check_out) VALUES
--- (1, 2, '2024-06-01', '2024-06-10'),
--- (2, 3, '2024-06-15', '2024-06-20'),
--- (3, 1, '2024-07-01', '2024-07-05');

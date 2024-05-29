@@ -5,6 +5,7 @@ The Hotel Reservation System is designed to facilitate real-time hotel booking a
 - PROJECT LINK: [Hotel Reservation Project](https://drive.google.com/drive/folders/1IpkrJUT_pcw1ZlR7W5y5pfiTmone-5fd?usp=drive_link)
 - VIEW: [Hotel Reservation View](https://drive.google.com/drive/folders/1M9rYJjZYzzC24L3eNbk9vwpV3R3ZUdW7?usp=drive_link)
 - VIDEO: [Hotel Reservation Presentation](https://drive.google.com/file/d/1tycTj-Q4Ilq6mQGd9x8dm2lCzbc5Hby4/view?usp=sharing)
+- DOCUMENTATION: [Documentation Structure](https://drive.google.com/file/d/1jxW0ZPUo_IfYIAB-Hx4FovKsfwoS1-nU/view?usp=drive_link)
 
 ## User Features
 ![User Dashboard Image](view/userDashboard.png)
