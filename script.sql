@@ -40,7 +40,8 @@ CREATE TABLE Reservations (
 );
 
 INSERT INTO Users (username, password, email, full_name, role) VALUES
-('admin', 'admin', 'admin@example.com', 'admin', 'Admin User');
+('admin', 'admin', 'admin@example.com', 'admin', 'Admin User'),
+('jdmaster', '$2y$10$opAnvoDZQhkwRWdH8sWAO.4AR.q2q/jWPkWJJERc4Vyf9NZvyRK/S', 'jdmaster@gmail.com', 'John Dave Pega', 'User');
 
 INSERT INTO Hotel (img_url, name, location, description) VALUES
 ('https://pix10.agoda.net/hotelImages/69205/-1/92b20bfd837d8aa27bd52c414f2135b1.png?ce=0&s=414x232&ar=16x9', 'JDM Hotel', 'Philippines, Calamba City', 'The best hotel in the world.'),
